@@ -4,3 +4,6 @@
 - tested grouping and counting by preset, and severity
 - dotenv isn't working in the notebook, but is working in my test script.
     - I have no idea why.
+
+### 2023 
+- creating a dummy branch to test merges
